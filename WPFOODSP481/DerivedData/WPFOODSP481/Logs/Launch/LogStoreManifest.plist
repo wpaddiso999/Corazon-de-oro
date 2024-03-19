@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>84BCD9A5-C2E6-4A34-A610-E8C4144D2D4B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>16D18F57-5773-4A4D-B27B-2AD4921C281E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-WPFOODSP481-2024.03.06_18-13-47--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WPFOODSP481 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WPFOODSP481</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WPFOODSP481</string>
+			<key>timeStartedRecording</key>
+			<real>731459627.011953</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run WPFOODSP481</string>
+			<key>uniqueIdentifier</key>
+			<string>84BCD9A5-C2E6-4A34-A610-E8C4144D2D4B</string>
+		</dict>
+		<key>A8E39108-C46C-48C1-BE51-D7588BD43972</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>03BD1F0B-31E8-403A-B45E-1E9E85C90217</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-WPFOODSP481-2024.03.06_18-28-05--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WPFOODSP481 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WPFOODSP481</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WPFOODSP481</string>
+			<key>timeStartedRecording</key>
+			<real>731460485.22107506</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run WPFOODSP481</string>
+			<key>uniqueIdentifier</key>
+			<string>A8E39108-C46C-48C1-BE51-D7588BD43972</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+emulator in emulator, no dependencies
+emulator in emulator, no dependencies
+emulatorTests in emulator, depends on:
+emulator in emulator (explicit)
+emulatorTests in emulator, depends on:
+emulator in emulator (explicit)
+emulatorTests in emulator, no dependencies
+emulatorUITests in emulator, depends on:
+emulator in emulator (explicit)
+emulatorUITests in emulator, depends on:
+emulator in emulator (explicit)
+emulatorUITests in emulator, no dependencies

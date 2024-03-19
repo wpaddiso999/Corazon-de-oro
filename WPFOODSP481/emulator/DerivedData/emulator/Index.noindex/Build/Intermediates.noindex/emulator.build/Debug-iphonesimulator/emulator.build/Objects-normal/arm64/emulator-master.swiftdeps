@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "5fbc5b9ea37b62b0ff54d9232d18c3fd086ee43c758a7acbec5480032d4b3484"
+build_start_time: [1709766028, 464638948]
+build_end_time: [1709766032, 510797023]
+inputs:
+  "/Users/emu/Desktop/WPFOODSP481-2/emulator/emulator/AppDelegate.swift": [1709766000, 25239467]
+  "/Users/emu/Desktop/WPFOODSP481-2/emulator/emulator/SceneDelegate.swift": [1709766000, 26948928]
+  "/Users/emu/Desktop/WPFOODSP481-2/emulator/emulator/ViewController.swift": [1709766000, 27979850]

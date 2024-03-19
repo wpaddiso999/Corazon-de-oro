@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03BD1F0B-31E8-403A-B45E-1E9E85C90217</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03BD1F0B-31E8-403A-B45E-1E9E85C90217.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WPFOODSP481 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WPFOODSP481</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WPFOODSP481</string>
+			<key>timeStartedRecording</key>
+			<real>731460485.22123599</real>
+			<key>timeStoppedRecording</key>
+			<real>731460487.54328299</real>
+			<key>title</key>
+			<string>Build WPFOODSP481</string>
+			<key>uniqueIdentifier</key>
+			<string>03BD1F0B-31E8-403A-B45E-1E9E85C90217</string>
+		</dict>
+		<key>16D18F57-5773-4A4D-B27B-2AD4921C281E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16D18F57-5773-4A4D-B27B-2AD4921C281E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WPFOODSP481 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WPFOODSP481</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WPFOODSP481</string>
+			<key>timeStartedRecording</key>
+			<real>731459627.01235104</real>
+			<key>timeStoppedRecording</key>
+			<real>731459630.04328406</real>
+			<key>title</key>
+			<string>Build WPFOODSP481</string>
+			<key>uniqueIdentifier</key>
+			<string>16D18F57-5773-4A4D-B27B-2AD4921C281E</string>
+		</dict>
+		<key>28F01211-7926-43BB-85D4-6F074302EE4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28F01211-7926-43BB-85D4-6F074302EE4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WPFOODSP481 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WPFOODSP481</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WPFOODSP481</string>
+			<key>timeStartedRecording</key>
+			<real>731461061.29923403</real>
+			<key>timeStoppedRecording</key>
+			<real>731461063.17637503</real>
+			<key>title</key>
+			<string>Build WPFOODSP481</string>
+			<key>uniqueIdentifier</key>
+			<string>28F01211-7926-43BB-85D4-6F074302EE4B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

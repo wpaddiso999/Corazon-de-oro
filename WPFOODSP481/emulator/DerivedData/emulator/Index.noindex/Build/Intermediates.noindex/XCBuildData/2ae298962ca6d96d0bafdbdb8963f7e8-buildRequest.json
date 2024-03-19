@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e867eedf6bfb407df712ff3b6a33ed291fd6488686c8ca63ba9b47ca240a9108"
+    },
+    {
+      "guid" : "e867eedf6bfb407df712ff3b6a33ed2967f52b0fcc9c48174fa10049ade3bfab"
+    },
+    {
+      "guid" : "e867eedf6bfb407df712ff3b6a33ed29c74e68e9fc555bbf2b593fd008b1dbda"
+    }
+  ],
+  "containerPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/emulator.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData/emulator/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData/emulator/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData/emulator/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData/emulator/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData/emulator/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/emu/Desktop/WPFOODSP481-2/emulator/DerivedData/emulator/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

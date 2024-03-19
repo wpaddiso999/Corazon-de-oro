@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d0b3f68af5792ca399ffcc1d2c1dffad922fd8e6f66a25501e41a822ff5001d7"
+build_start_time: [1709765771, 905416011]
+build_end_time: [1709765771, 929826021]
+inputs:
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/AppDelegate.swift": !private [1707810344, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/CartManager/CartManager.swift": !private [1709535110, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Controllers/Cart/CartViewController.swift": !private [1709535110, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Controllers/Categories/CategoryViewController.swift": !private [1709415538, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Controllers/Items/ItemDetailsViewController.swift": !private [1709416082, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Controllers/Items/ItemsViewController.swift": !private [1709417584, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Controllers/Receipt/ReceiptViewController.swift": !private [1709535562, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Controllers/Tabbar/TabbarViewController.swift": !private [1708410444, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Menu/Menu.swift": !private [1709417536, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Models/CategoryModel.swift": !private [1709415538, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Models/ItemModel.swift": !private [1709413012, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/SceneDelegate.swift": !private [1707810344, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/ViewController.swift": !private [1707810344, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Views/CollectionViewCells/CategoryCollectionViewCell.swift": !private [1709415538, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Views/CollectionViewCells/ItemsCollectionViewCell.swift": !private [1709405504, 0]
+  "/Users/emu/Desktop/WPFOODSP481-2/WPFOODSP481/Views/TableViewCells/CartTableViewCell.swift": !private [1709534954, 0]
