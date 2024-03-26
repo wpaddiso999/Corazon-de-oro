@@ -18,14 +18,24 @@
                     <view key="view" contentMode="scaleToFill" id="0hU-lq-unw">
                         <rect key="frame" x="0.0" y="0.0" width="430" height="863"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Images Coming Soon ..." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="RXW-C6-Ftq">
+                                <rect key="frame" x="95" y="354" width="240" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="Kzc-c8-8Tj"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="UsE-hD-FHF"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7y8-IO-kCI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3317" y="2518"/>
+            <point key="canvasLocation" x="-3318.1395348837209" y="2517.8111587982835"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="MdM-Aa-hor">
@@ -34,14 +44,38 @@
                     <view key="view" contentMode="scaleToFill" id="rpf-Z0-lEC">
                         <rect key="frame" x="0.0" y="0.0" width="430" height="863"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Contact Us" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1nD-qu-Oyi">
+                                <rect key="frame" x="55" y="59" width="188" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="PVk-xm-sCt">
+                                <rect key="frame" x="55" y="165" width="240" height="596"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <mutableString key="text">Thank you for your interest in Williams Food and Spirits Sports Bar! Whether you have a question, feedback, or would like to inquire about our services, we're here to help.
+
+You can reach us by phone at 517-304-7528 during our business hours. Our friendly staff members are available to assist you with any inquiries you may have, from making reservations to discussing catering options for your next event.
+
+Alternatively, you can also reach out to us via email at willFood&amp;Spirits@gmail.com. Drop us a line with your questions or requests, and we'll get back to you promptly with the information you need.
+
+At Williams Food and Spirits Sports Bar, we're committed to providing exceptional service and ensuring that your experience with us is nothing short of outstanding. We look forward to hearing from you soon!</mutableString>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="aW8-3y-767"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="dC2-d0-6jq"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y9y-Lc-HCt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-4436" y="1227"/>
+            <point key="canvasLocation" x="-4437.2093023255811" y="1226.3948497854078"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="iG5-qZ-0mc">
@@ -50,14 +84,46 @@
                     <view key="view" contentMode="scaleToFill" id="bt4-RB-rtl">
                         <rect key="frame" x="0.0" y="0.0" width="430" height="863"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EIe-gg-fMa">
+                                <rect key="frame" x="42" y="42" width="181" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="About Us">
+                                        <attributes>
+                                            <font key="NSFont" size="39" name="Copperplate"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="13F-5E-HFL">
+                                <rect key="frame" x="20" y="123" width="379" height="692"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <mutableString key="text">Welcome to Williams Food and Spirits Sports Bar, your go-to destination for mouthwatering cuisine, refreshing beverages, and live entertainment in the heart of Pittsburgh's vibrant Downtown district.
+
+At Williams, we pride ourselves on offering an unforgettable dining experience where delicious food meets the thrill of live music. Our diverse menu features a tantalizing array of dishes, ranging from classic pub fare to gourmet delights, expertly crafted to tantalize your taste buds.
+
+Quench your thirst with our extensive selection of draft beers and handpicked craft brews, meticulously curated to complement our flavorful dishes. Whether you're a seasoned beer aficionado or simply looking to unwind with friends, our bar is stocked with options to suit every palate.
+
+But Williams isn't just a place to eat and drink – it's a hub of entertainment and excitement. Join us for live performances by talented local musicians, creating the perfect ambiance to kick back, relax, and enjoy the company of friends and fellow patrons.
+
+Located in the bustling heart of Pittsburgh's Downtown area, Williams Food and Spirits Sports Bar invites you to savor great food, sip on your favorite drinks, and soak in the lively atmosphere. Whether you're stopping by for a quick bite, catching up with friends, or looking for a memorable night out, we look forward to welcoming you to the Williams experience.</mutableString>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="rzh-lu-7sR"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="lUo-jw-1t5"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HEO-If-xfz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="613" y="1405"/>
+            <point key="canvasLocation" x="612.55813953488371" y="1404.7210300429185"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="mez-Wx-mCK">
@@ -66,14 +132,44 @@
                     <view key="view" contentMode="scaleToFill" id="Npp-Ql-94Q">
                         <rect key="frame" x="0.0" y="0.0" width="430" height="863"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Services" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tNg-9t-2r5">
+                                <rect key="frame" x="37" y="43" width="193" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Copperplate" family="Copperplate" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="4jw-LZ-SYW">
+                                <rect key="frame" x="37" y="115" width="373" height="693"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <mutableString key="text">Welcome to Williams Food and Spirits Sports Bar, where we offer an array of services to enhance your dining and entertainment experience.
+
+Pickup Dining: Need a delicious meal on the go? Our pickup dining service allows you to enjoy our mouthwatering cuisine wherever you are. Simply place your order, swing by our location in Pittsburgh Downtown, and we'll have your food ready for pickup.
+
+Live Music: Immerse yourself in the vibrant sounds of talented local musicians while you dine. Our live music performances add an extra layer of excitement to your visit, creating the perfect ambiance for a memorable night out.
+
+Catering: Planning a special event or gathering? Let us cater to your needs with our catering services. From corporate events to private parties, we'll work with you to create a customized menu that suits your tastes and preferences.
+
+Large Party Reservations: Planning a get-together with friends or colleagues? We offer reservations for large parties and events, ensuring that you and your guests have a fantastic experience. Whether it's a birthday celebration, a company outing, or any other occasion, we've got you covered.
+
+Current Sporting Events: Sports enthusiasts, rejoice! We've got all the current sporting events covered, so you can catch every game, match, or race while you dine and socialize with friends.
+
+For more information or to inquire about our services, please don't hesitate to contact us at 517-304-7528. We're here to make your experience at Williams Food and Spirits Sports Bar truly exceptional.</mutableString>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="j8I-wN-LWx"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="yVh-VU-9KP"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hZe-km-p45" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-7" y="2569"/>
+            <point key="canvasLocation" x="-8.3720930232558146" y="2568.669527896996"/>
         </scene>
         <!--Table View Controller-->
         <scene sceneID="FYF-mc-LPD">
@@ -83,6 +179,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="430" height="932"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="sectionIndexBackgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <sections>
                             <tableViewSection headerTitle="Williams Food &amp; Spirits" id="Kd5-9c-t4j">
                                 <cells>
@@ -105,6 +202,7 @@
                                             <rect key="frame" x="0.0" y="0.0" width="430" height="44.333332061767578"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
+                                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <listContentConfiguration key="contentConfiguration" text="About Us" secondaryText=""/>
                                         <connections>
                                             <segue destination="qr4-5J-V82" kind="show" id="TyF-Zx-lhq"/>
@@ -129,6 +227,7 @@
                                             <rect key="frame" x="0.0" y="0.0" width="430" height="44.333332061767578"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
+                                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <listContentConfiguration key="contentConfiguration" text="Gallery" secondaryText=""/>
                                         <connections>
                                             <segue destination="dwE-HA-Lqd" kind="show" id="Wap-W5-0MK"/>
@@ -186,14 +285,6 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Have Your Orders Ready for you when you show up" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="EYr-Fj-dQy">
-                                <rect key="frame" x="87" y="542" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <color key="textColor" systemColor="opaqueSeparatorColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="images-2" translatesAutoresizingMaskIntoConstraints="NO" id="26T-zI-YHJ">
                                 <rect key="frame" x="31" y="50" width="368" height="395"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -324,7 +415,7 @@
                                 </connections>
                             </collectionView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Categories" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xmE-FN-36G">
-                                <rect key="frame" x="20" y="20" width="154.66666666666666" height="35.333333333333343"/>
+                                <rect key="frame" x="20" y="20.000000000000004" width="154.66666666666666" height="35.333333333333343"/>
                                 <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="27"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -986,8 +1077,8 @@
         <image name="menucard.fill" catalog="system" width="105" height="128"/>
         <image name="minus" width="512" height="512"/>
         <image name="trash.fill" catalog="system" width="119" height="128"/>
-        <systemColor name="opaqueSeparatorColor">
-            <color red="0.77647058823529413" green="0.77647058823529413" blue="0.78431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="labelColor">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="secondarySystemGroupedBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
