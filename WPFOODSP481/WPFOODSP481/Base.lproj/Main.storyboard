@@ -38,6 +38,140 @@
             <point key="canvasLocation" x="-3318.1395348837209" y="2517.8111587982835"/>
         </scene>
         <!--View Controller-->
+        <scene sceneID="Hcy-oT-u7a">
+            <objects>
+                <viewController id="aNO-fl-iFm" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="raw-15-k68">
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="863"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="VT3-ux-aur">
+                                <rect key="frame" x="20" y="143" width="390" height="596"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <string key="text">Thank you for reaching out to William Food and Spirits! 🍽️ Your inquiry means a lot to us. We'll be in touch shortly to address your questions or requests. Looking forward to serving you soon! Cheers! 🥂</string>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="JCR-9O-EvY"/>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="InX-FT-jao"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IAs-XV-sIY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-6408.8372093023254" y="1229.6137339055795"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="6U3-cv-ouW">
+            <objects>
+                <viewController id="hXP-Ly-9z8" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="4C3-5t-xCK">
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="863"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Contact us Now Form" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4oK-cy-Y7Y">
+                                <rect key="frame" x="35" y="39" width="360" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="First &amp; Last Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="efW-74-wq8">
+                                <rect key="frame" x="35" y="145" width="188" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Phone # + 1 (***) - *** -****" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EHQ-3X-1Q0">
+                                <rect key="frame" x="35" y="223" width="201" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Email" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ULU-HW-8u8">
+                                <rect key="frame" x="35" y="301" width="188" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="knH-kQ-MIJ">
+                                <rect key="frame" x="14" y="559" width="188" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="eYQ-6L-hWy">
+                                <rect key="frame" x="35" y="223" width="360" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="RHw-MX-w1G">
+                                <rect key="frame" x="35" y="287" width="360" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="D9k-sd-q35">
+                                <rect key="frame" x="35" y="365" width="360" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Brief Reason For Contact" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vbd-I0-Aor">
+                                <rect key="frame" x="35" y="382" width="188" height="98"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7C7-nM-xzf">
+                                <rect key="frame" x="35" y="454" width="368" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                        <size key="value" width="3" height="0.0"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nzT-od-cxT">
+                                <rect key="frame" x="162" y="559" width="78" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="labelColor"/>
+                                <color key="tintColor" systemColor="labelColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Submit">
+                                    <color key="baseForegroundColor" systemColor="secondarySystemBackgroundColor"/>
+                                </buttonConfiguration>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                        <color key="value" systemColor="secondarySystemGroupedBackgroundColor"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="aNO-fl-iFm" kind="show" id="a7j-rU-s2j"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="g0x-Jq-A55"/>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="0lI-T5-Sua"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Cmu-mt-LcB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-5600.9302325581393" y="1227.6824034334766"/>
+        </scene>
+        <!--View Controller-->
         <scene sceneID="MdM-Aa-hor">
             <objects>
                 <viewController id="7zP-uL-GSs" sceneMemberID="viewController">
@@ -56,17 +190,35 @@
                                 <rect key="frame" x="55" y="165" width="240" height="596"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <mutableString key="text">Thank you for your interest in Williams Food and Spirits Sports Bar! Whether you have a question, feedback, or would like to inquire about our services, we're here to help.
+                                <string key="text">Thank you for your interest in Williams Food and Spirits Sports Bar! Whether you have a question, feedback, or would like to inquire about our services, we're here to help.
 
 You can reach us by phone at 517-304-7528 during our business hours. Our friendly staff members are available to assist you with any inquiries you may have, from making reservations to discussing catering options for your next event.
 
 Alternatively, you can also reach out to us via email at willFood&amp;Spirits@gmail.com. Drop us a line with your questions or requests, and we'll get back to you promptly with the information you need.
 
-At Williams Food and Spirits Sports Bar, we're committed to providing exceptional service and ensuring that your experience with us is nothing short of outstanding. We look forward to hearing from you soon!</mutableString>
+At Williams Food and Spirits Sports Bar, we're committed to providing exceptional service and ensuring that your experience with us is nothing short of outstanding. We look forward to hearing from you soon!</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U77-FY-3w3">
+                                <rect key="frame" x="132" y="726" width="148" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="labelColor"/>
+                                <color key="tintColor" systemColor="labelColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Contact Us Now">
+                                    <color key="baseForegroundColor" systemColor="secondarySystemBackgroundColor"/>
+                                </buttonConfiguration>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                        <color key="value" systemColor="secondarySystemGroupedBackgroundColor"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="hXP-Ly-9z8" kind="show" id="4XU-5U-H0l"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="aW8-3y-767"/>
                         <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -102,7 +254,7 @@ At Williams Food and Spirits Sports Bar, we're committed to providing exceptiona
                                 <rect key="frame" x="20" y="123" width="379" height="692"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <mutableString key="text">Welcome to Williams Food and Spirits Sports Bar, your go-to destination for mouthwatering cuisine, refreshing beverages, and live entertainment in the heart of Pittsburgh's vibrant Downtown district.
+                                <string key="text">Welcome to Williams Food and Spirits Sports Bar, your go-to destination for mouthwatering cuisine, refreshing beverages, and live entertainment in the heart of Pittsburgh's vibrant Downtown district.
 
 At Williams, we pride ourselves on offering an unforgettable dining experience where delicious food meets the thrill of live music. Our diverse menu features a tantalizing array of dishes, ranging from classic pub fare to gourmet delights, expertly crafted to tantalize your taste buds.
 
@@ -110,7 +262,7 @@ Quench your thirst with our extensive selection of draft beers and handpicked cr
 
 But Williams isn't just a place to eat and drink – it's a hub of entertainment and excitement. Join us for live performances by talented local musicians, creating the perfect ambiance to kick back, relax, and enjoy the company of friends and fellow patrons.
 
-Located in the bustling heart of Pittsburgh's Downtown area, Williams Food and Spirits Sports Bar invites you to savor great food, sip on your favorite drinks, and soak in the lively atmosphere. Whether you're stopping by for a quick bite, catching up with friends, or looking for a memorable night out, we look forward to welcoming you to the Williams experience.</mutableString>
+Located in the bustling heart of Pittsburgh's Downtown area, Williams Food and Spirits Sports Bar invites you to savor great food, sip on your favorite drinks, and soak in the lively atmosphere. Whether you're stopping by for a quick bite, catching up with friends, or looking for a memorable night out, we look forward to welcoming you to the Williams experience.</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -144,7 +296,7 @@ Located in the bustling heart of Pittsburgh's Downtown area, Williams Food and S
                                 <rect key="frame" x="37" y="115" width="373" height="693"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <mutableString key="text">Welcome to Williams Food and Spirits Sports Bar, where we offer an array of services to enhance your dining and entertainment experience.
+                                <string key="text">Welcome to Williams Food and Spirits Sports Bar, where we offer an array of services to enhance your dining and entertainment experience.
 
 Pickup Dining: Need a delicious meal on the go? Our pickup dining service allows you to enjoy our mouthwatering cuisine wherever you are. Simply place your order, swing by our location in Pittsburgh Downtown, and we'll have your food ready for pickup.
 
@@ -156,7 +308,7 @@ Large Party Reservations: Planning a get-together with friends or colleagues? We
 
 Current Sporting Events: Sports enthusiasts, rejoice! We've got all the current sporting events covered, so you can catch every game, match, or race while you dine and socialize with friends.
 
-For more information or to inquire about our services, please don't hesitate to contact us at 517-304-7528. We're here to make your experience at Williams Food and Spirits Sports Bar truly exceptional.</mutableString>
+For more information or to inquire about our services, please don't hesitate to contact us at 517-304-7528. We're here to make your experience at Williams Food and Spirits Sports Bar truly exceptional.</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -1079,6 +1231,9 @@ For more information or to inquire about our services, please don't hesitate to 
         <image name="trash.fill" catalog="system" width="119" height="128"/>
         <systemColor name="labelColor">
             <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="secondarySystemBackgroundColor">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="secondarySystemGroupedBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
